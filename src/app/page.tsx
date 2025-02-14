@@ -862,7 +862,7 @@ export default function Home() {
                 className="cursor-pointer"
               >
                 <Image
-                  src="https://cdn.shopify.com/s/files/1/0917/3604/7895/files/c68cbc7584453af80adcbe7952aeb4e8.png?v=1739361399"
+                  src="/logo.png"
                   alt="Logo"
                   width={70}
                   height={20}
